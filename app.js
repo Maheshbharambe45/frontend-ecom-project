@@ -1,3 +1,2 @@
-console.log("app.js is runnin");
+fruits = ["apple", "banana", "cherry"];
 console.log("hello from app.js");
-console.log("function called from app.js");
